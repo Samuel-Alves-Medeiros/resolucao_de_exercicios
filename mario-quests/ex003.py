@@ -1,4 +1,4 @@
-from cofre_real import tamanho
+from ex001 import tamanho
 mapa_blocos:list[list[int]] = [
     [15,5,20,-1,50],
     [30,10,8],
