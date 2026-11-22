@@ -1,4 +1,4 @@
-from cofre_real import tamanho
+from ex001 import tamanho
 
 sinais_da_floresta:list[str] = [
     "M12", "Y08", "C16", "|",
